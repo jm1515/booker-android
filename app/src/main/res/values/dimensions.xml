@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_splashscreen">52sp</dimen>
+
+    <dimen name="text_action_bar">30sp</dimen>
+
+    <dimen name="margin_layout_login">15dp</dimen>
+    <dimen name="margin_bottom_input_login">20dp</dimen>
+
+    <dimen name="margin_bottom_button_register">20dp</dimen>
+    <dimen name="text_button_register">16sp</dimen>
+
+    <dimen name="margin_bottom_register_text_view">10dp</dimen>
+    <dimen name="margin_top_register_text_view">20dp</dimen>
+    <dimen name="margin_bottom_register">15dp</dimen>
+    <dimen name="margin_top_register">15dp</dimen>
+
+    <dimen name="text_title_size">16sp</dimen>
+
+    <dimen name="margin_list_books">10dp</dimen>
+
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Booker</string>
+    <string name="hint_mail">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="hint_confirmation_password">Confirmation mot de passe</string>
+    <string name="hint_firstname">Prénom</string>
+    <string name="hint_lastname">Nom</string>
+    <string name="hint_phone_number">Téléphone</string>
+    <string name="text_button_go_register">Nouveau sur Booker ? Inscrivez vous</string>
+    <string name="text_button_login">Connexion</string>
+    <string name="text_register_step1">Renseignez vos informations personnelles :</string>
+    <string name="text_register_next_step">Suivant</string>
+    <string name="text_register_step2">Saisissez votre mot de passe :</string>
+    <string name="text_register">Inscription</string>
+    <string name="register_empty_field">Ce champ est nécessaire</string>
+    <string name="register_invalid_email">Email invalide</string>
+    <string name="register_invalid_phone">Numéro de téléphone invalide</string>
+    <string name="register_email_already_exist">Cet email est déjà utilisé</string>
+    <string name="register_empty_pwd">Le mot de passe est nécessaire</string>
+    <string name="register_invalid_pwd">Il ne s\'agit pas du mot de passe saisi</string>
+    <string name="register_empty_confirmation_pwd">La confirmation du mot de passe est nécessaire</string>
+    <string name="register_failed">Impossible de vous inscrire</string>
+    <string name="login_failed">Impossible de vous connecter</string>
+    <string name="login_empty_pwd">Le mot de passe est nécessaire</string>
+    <string name="login_empty_mail">Le mail est nécessaire</string>
+    <string name="login_success">Connexion réussie</string>
+    <string name="list_books_title">Liste des livres</string>
+    <string name="list_books_load_empty">Il n\'y a aucun livre à afficher</string>
+    <string name="list_books_load_failed">Le chargement des livres a échoué</string>
+</resources>
